@@ -1,0 +1,9 @@
+assets
+build
+*.lock
+node_modules
+**/missing.json
+yarn-error.log
+rethinkdb_data
+log
+*.log
